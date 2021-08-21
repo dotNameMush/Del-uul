@@ -1,4 +1,5 @@
 # del-uul
- Del uuliin gaihamshig NGO iin website
+"Дэл уулын гайхамшиг" NGO's introduction website.
  Freelance project
+ 
  Visit here: https://dotnamemush.github.io/Del-uul/
